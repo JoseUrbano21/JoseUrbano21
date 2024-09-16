@@ -1,8 +1,6 @@
 ## ¡Hola!✨
 
-Buscando un cambio profesional porque... ¡nunca es tarde para darse cuenta que te gusta hacer magia con un ordenador!
-En crecimiento como programador de aplicaciones multiplataforma, interesado en videojuegos y aprendiendo cada día a colaborar en este mundillo friki.
-Abierto a colaborar en proyectos en los que pueda aportar y aprender.
+Buscando un cambio profesional porque... ¡nunca es tarde para darse cuenta que te gusta hacer magia con un ordenador! En crecimiento como programador de aplicaciones multiplataforma, interesado en videojuegos y aprendiendo cada día a colaborar en este mundillo friki. Abierto a colaborar en proyectos en los que pueda aportar y aprender.
 
 <!--
 **JoseUrbano21/JoseUrbano21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
