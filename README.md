@@ -17,7 +17,7 @@ Before you take a look on my repositories, check the list to know my proudest pr
 - **[PokéApi in Android](https://github.com/JoseUrbano21/dam-android-pokeapi)**: a school project where I learnt to use Kotlin and Retrofit in order to work with an external API.
 - **[Multithread Server-Client Backend](https://github.com/JoseUrbano21/dam-psp-multithread)**: a school project where I learnt to build a backend working with a multithread structured server-client.
 
-Don't forget to check out my repositories if you want to know more!
+> _Don't forget to check out my repositories if you want to know more!_
 
 ## Technologies :computer:          
 
