@@ -6,7 +6,7 @@ _Software developer in progress | Turning creativity into code_
 </div>
 
 ## About me ✨
-I'm a **Multiplatform Application Developer in progress** who combine my creativity with the technology. I believe in the _true self_ expression as the way to success and happiness, and I found in software development my medium to show my personality. The **Pokémon MVP Tournament** is my big _work in progress_ project, where I put all of myself into it.
+I'm a **Multiplatform Application Developer in progress** who combine my creativity with the technology. The _true self_ expression is the way to success and happiness, and I found in software development my medium to show my personality. I believe in working from the passion, and the **Pokémon MVP Tournament** is my big _work in progress_ project, where I put all of myself into it.
 
 ## Noted projects :iphone:
             
