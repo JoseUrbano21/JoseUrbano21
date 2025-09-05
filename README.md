@@ -1,5 +1,9 @@
-<h1 align="center">Hi!✨, I'm Jose 🏳️‍🌈​</h1>
-<h3 align="center">A rookie looking for a new lifestyle behind a computer</h3>
+
+
+<div align="center">
+# Hi! I'm Jose Urbano✨🏳️‍🌈
+_Software developer in progress | Turning creativity into code_
+</div>
 
 - 🔭 I’m currently working on **multiplatform application development**
 
