@@ -23,18 +23,21 @@ Don't forget to check out my repositories if you want to know more!
 
 These are the main technologies which I have worked with:
        
--   **Languages**: 
+-   **Languages**:
+
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
             
 -   **Frameworks/Tools**:
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
             
 -   **Other**:
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
