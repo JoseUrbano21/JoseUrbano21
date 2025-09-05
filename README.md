@@ -1,8 +1,10 @@
 
 
 <div align="center">
+  
 # Hi! I'm Jose Urbano✨🏳️‍🌈
 _Software developer in progress | Turning creativity into code_
+
 </div>
 
 - 🔭 I’m currently working on **multiplatform application development**
